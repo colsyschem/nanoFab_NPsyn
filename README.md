@@ -1,2 +1,1 @@
-# nanoFab_NPsyn
-Automated synthesis of metallic NP assisted by AI
+# Pr_automation_NPsyn

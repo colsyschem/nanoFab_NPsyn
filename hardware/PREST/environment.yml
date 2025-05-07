@@ -1,0 +1,12 @@
+name: ismatec
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyfiglet
+  - pyserial
+  - textual
+  - watchdog
+  - inquirer
+prefix: /home/mikel/anaconda3/envs/ismatec
